@@ -4,7 +4,7 @@
 
 This project is a comprehensive task scheduler application built with Node.js and React. It allows users to create, manage, and monitor scheduled tasks with customizable execution times and optional email notifications. Key features include:
 
-![Task Scheduler](website.png)
+![Task Scheduler](task.png)
 
 - **Task Scheduling:** Users can define tasks with specific cron expressions to schedule execution times. This allows tasks to run at precise intervals, such as every hour, daily, or at specific times.
 - **Email Notifications:** The application integrates with NodeMailer to send email notifications when tasks are executed. This feature is useful for reminders, alerts, and updates.
